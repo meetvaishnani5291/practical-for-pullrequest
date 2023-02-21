@@ -1,3 +1,4 @@
 this line is added in first commit in master branch
 this line is added in second commit in master branch
 this line is added in first commit in feature2 branch
+this line edited in feature5.
