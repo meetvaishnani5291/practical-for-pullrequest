@@ -1,1 +1,2 @@
-this line is added in second commit in master branch
+this line is added in second commit in master branch(this line is edited in feature 1 c1)
+this line is added in first commit in feature1 branch
